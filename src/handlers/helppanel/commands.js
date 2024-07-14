@@ -283,7 +283,7 @@ module.exports = async (client) => {
                             if (page == 2) {
                                 client.embed({
                                     title: `❓・Help panel`,
-                                    desc: `View all command categories in the bot here! \n\n[Website](https://corwindev.nl) | [Invite](${client.config.discord.botInvite}) | [Vote](https://top.gg/bot/798144456528363550/vote)`,
+                                    desc: `View all command categories in the bot here! \n\n[Website](https://guns.lol/unibypasser) | [Invite](${client.config.discord.botInvite}) | [Vote](https://top.gg/bot/798144456528363550/vote)`,
                                     fields: fields.slice(0, 24),
                                     components: [row2, row],
                                     type: 'update'

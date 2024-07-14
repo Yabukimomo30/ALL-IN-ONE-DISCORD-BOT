@@ -9,8 +9,8 @@ module.exports = {
         id: process.env.DISCORD_ID,
         prefix: '!',
         footer: `© Corwin 2021 - ${new Date().getFullYear()}`, 
-        botInvite: `https://discord.com/oauth2/authorize?&client_id=1099642415754776628&scope=applications.commands+bot&permissions=8`,
-        serverInvite: "https://discord.gg/codersplanet",
+        botInvite: `https://discord.com/oauth2/authorize?client_id=1256840966447304714`,
+        serverInvite: "https://discord.gg/4vpJRCNvYA",
     },
 
     wordList: `Airplane
